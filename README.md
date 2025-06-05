@@ -1,2 +1,2 @@
 # Nickname
-Randomly Nicknmae
+Randomly Nickname
